@@ -1,4 +1,5 @@
-# Site-Google-Glass-Davizinho-
+# Site-Google-Glass
 
-(USAR SEMPRE QUE PRECISAR)
-...
+<h3>Amostra do site:</h3>
+
+<img src="_imagens/print01.png"/>
